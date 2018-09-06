@@ -1,0 +1,21 @@
+{
+  "name": "i18next-cross-fetch-backend",
+  "version": "0.0.1",
+  "description": "backend layer for i18next using cross-fetch",
+  "homepage": "https://github.com/fpasquet/i18next-cross-fetch-backend",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fpasquet/i18next-cross-fetch-backend"
+  },
+  "main": "index.js",
+  "keywords": [
+    "i18next",
+    "i18next-backend"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "cross-fetch": ">=2"
+  },
+  "author": "Fabien PASQUET <fpasquet@gmail.com> (https://github.com/fpasquet)",
+  "license": "MIT"
+}
